@@ -1,10 +1,15 @@
 # Extractive-Summerization-with-Question-generation
 
-Extractive Text Summerization using RBM and MCQ + Fill-me Pattern Question generation
+Extractive Text Summerization using RBM and MCQ + Fill-me Pattern Question generation with simple ui
 
-This is the project that summerize given huge passage to small size and based upon the summerized passage it generates MCQ and Fill-Me pattern questions
+This is the project that summerize given huge passage to small size and based upon the summerized passage it generates MCQ and Fill-Me pattern questions with GUI
 
 A "restricted Boltzmann machine" (RBM) is a generative stochastic artificial neural network that can learn a probability distribution over its set of inputs.
+
+RBM used for Summerization
+Tkinter used for GUI
+PKE used for Keyword Extraction
+Wordnet and Conceptnet used for Distractor Generation
 
 Things used for the project:
 
