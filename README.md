@@ -35,6 +35,7 @@ Things used / need for the project:
 UI are given below
 
 0) Processing Window:
+
 ![image](https://user-images.githubusercontent.com/45332516/117916883-a470db00-b305-11eb-8244-bfc22c95debb.png)
 
 1) Index Window:
