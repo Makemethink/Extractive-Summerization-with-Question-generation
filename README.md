@@ -34,12 +34,16 @@ Dependencies including miniconda:
 14. Wn
 
 UI are given below
+
 1) Index Window:
+
 ![one](https://user-images.githubusercontent.com/45332516/117916101-1f38f680-b304-11eb-9f67-614cd6f12709.PNG)
 
 2) Summerized text Window:
+
 ![four](https://user-images.githubusercontent.com/45332516/117916198-4d1e3b00-b304-11eb-82f5-d5c1098ba50b.PNG)
 
 3) Question Window:
+
 ![three](https://user-images.githubusercontent.com/45332516/117916255-6d4dfa00-b304-11eb-9b8a-80e348b4bf02.PNG)
 
