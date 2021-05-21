@@ -1,5 +1,9 @@
 # Extractive-Summerization-with-Question-generation
 
+Language : Python
+Version : 3+
+Distribution : Miniconda
+
 Extractive Text Summerization using RBM and MCQ + Fill-me Pattern Question generation with simple ui
 
 This is the project that summerize given huge passage to small size and based upon the summerized passage it generates MCQ and Fill-Me pattern questions with GUI
